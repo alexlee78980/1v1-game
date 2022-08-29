@@ -1,4 +1,4 @@
-# Animal Classier
+# Game
 ![alt text](https://github.com/alexlee78980/animal-classification/blob/main/images_animal_classifier/Screenshot%20(17).png)
 ## Important
 The machine learning model is very large therefore wasn't uploaded to github
